@@ -1,0 +1,10 @@
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\bin\Debug\InformationProgramm.exe.config
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\bin\Debug\InformationProgramm.exe
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\bin\Debug\InformationProgramm.pdb
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.csproj.AssemblyReference.cache
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.InformationForm.resources
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.Properties.Resources.resources
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.csproj.GenerateResource.cache
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.exe
+C:\Users\Vampir\source\repos\InformationProgramm\InformationProgramm\obj\Debug\InformationProgramm.pdb
